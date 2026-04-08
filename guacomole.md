@@ -1,1 +1,3 @@
-#Guacomole
+# Guacomole
+## Ingredients
+## Instructions
